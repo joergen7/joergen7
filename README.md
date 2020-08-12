@@ -1,4 +1,4 @@
-I am a software engineer in language design and distributed systems. Professionally, I maintain passenger counting and passenger information systems for Interautomation GmbH. I build up and support several open-source and free software projects. These include Cuneiform, a distributed functional programming language I designed, and gen_pnet, an Erlang library to implement Petri nets.
+I am a software engineer in language design and distributed systems. Professionally, I maintain passenger counting and passenger information systems for Interautomation GmbH. I build up and support several open-source and free software projects. E.g., Cuneiform, a distributed functional programming language I designed, and gen_pnet, an Erlang library to implement Petri nets.
 
 <!--
 **joergen7/joergen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
