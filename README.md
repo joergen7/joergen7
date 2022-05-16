@@ -1,4 +1,4 @@
-I am a software engineer focusing on language design and distributed systems. At Interautomation GmbH I maintain passenger counting and passenger information systems. My goal is to support open-source and free software projects. To learn more take a look at Cuneiform, a distributed functional programming language, or gen_pnet, an Erlang library to implement Petri nets.
+I am a software engineer focusing on language design and distributed systems. At Interautomation GmbH I develop passenger counting and passenger information systems. My goal is to support open-source and free software projects. To learn more take a look at Cuneiform, a distributed functional programming language, or gen_pnet, an Erlang library to implement Petri nets.
 
 Professionally, I program C, C++, Java, and Python. For my own projects, I prefer Erlang, Common Lisp, or Racket.
 
