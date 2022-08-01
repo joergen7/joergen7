@@ -1,4 +1,4 @@
-I am a software engineer focusing on language design and distributed systems. At [Interautomation GmbH](https://www.interautomation.de/en/) I develop passenger counting and passenger information systems. My goal is to support open-source and free software projects. To learn more, take a look at [Cuneiform](https://github.com/joergen7/cuneiform), a distributed functional programming language, or [gen_pnet](https://github.com/joergen7/gen_pnet), an Erlang library to implement Petri nets.
+I am a software engineer focusing on language design and distributed systems. My goal is to support open-source and free software projects. To learn more, take a look at [Cuneiform](https://github.com/joergen7/cuneiform), a distributed functional programming language, or [gen_pnet](https://github.com/joergen7/gen_pnet), an Erlang library to implement Petri nets.
 
 Professionally, I program C, C++, Java, and Python. For my own projects, I prefer Erlang, Common Lisp, or Racket.
 
